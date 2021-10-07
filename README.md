@@ -11,7 +11,7 @@
 
 #### Note: This app uses google signin api. You need to do the following things to add google siognin to your app
 > You can skip the dependency and code (already added), you just need to configure your app.
- ```
+
  1. visit "https://developers.google.com/identity/sign-in/android/start-integrating"
  2. go to "Configure a Google API Console projectConfigure a Google API Console project"
  3. click "Configure a project" button
@@ -23,7 +23,6 @@
  9. you can download the file
  10. now you are good to go.
 
-...
 ## Features
 * Google Signin
 * Add, Update and Delete notes
