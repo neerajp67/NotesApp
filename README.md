@@ -23,6 +23,7 @@
  9. you can download the file
  10. now you are good to go.
 
+...
 ## Features
 * Google Signin
 * Add, Update and Delete notes
